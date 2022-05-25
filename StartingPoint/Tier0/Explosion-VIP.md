@@ -1,3 +1,11 @@
+# Table of Contents
+
+- [Research](#research)
+- [Reproduce](#reproduce)
+- [Flag](#flag)
+
+# Research
+
 TASK 1
 
 What does the 3-letter acronym RDP stand for?
