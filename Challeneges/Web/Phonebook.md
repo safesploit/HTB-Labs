@@ -166,40 +166,40 @@ Original [script](https://sys41x4.github.io/HTB/challenge/web/Phonebook.html)
 
 ### Script output
 
-┌──(kali㉿kali)-[~]
-└─$ python3 phonebook-script.py
-Starting Attack
+    ┌──(kali㉿kali)-[~]
+    └─$ python3 phonebook-script.py
+    Starting Attack
 
-Partially valid --> USERNAME :  | PASSWORD : H
-Partially valid --> USERNAME :  | PASSWORD : HT
-Partially valid --> USERNAME :  | PASSWORD : HTB
-Partially valid --> USERNAME :  | PASSWORD : HTB{
-Partially valid --> USERNAME :  | PASSWORD : HTB{d
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1r
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1re
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rec
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rect
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1recto
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rector
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4x
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_i
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k0
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l
-Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l}
-valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l}
+    Partially valid --> USERNAME :  | PASSWORD : H
+    Partially valid --> USERNAME :  | PASSWORD : HT
+    Partially valid --> USERNAME :  | PASSWORD : HTB
+    Partially valid --> USERNAME :  | PASSWORD : HTB{
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1r
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1re
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rec
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rect
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1recto
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rector
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4x
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_i
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k0
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l
+    Partially valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l}
+    valid --> USERNAME :  | PASSWORD : HTB{d1rectory_h4xx0r_is_k00l}
 
 
 # Reproduce
