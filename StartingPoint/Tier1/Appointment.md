@@ -1,3 +1,11 @@
+# Table of Contents
+
+- [Research](#research)
+- [Reproduce](#reproduce)
+- [Flag](#flag)
+
+# Research
+
 TASK 1
 
 What does the acronym SQL stand for?
@@ -102,7 +110,7 @@ Hash / pound-sign
       
 Apache 2.4.38 Vulnerability CVE-2019-10097
 
-# Reproduce SQL Injection
+# Reproduce
 
 Using admin '-- in the login fields does show the login form to be vulnerable to SQL injection.
 
