@@ -89,8 +89,8 @@ What is the status code reported by gobuster upon finding a successful page?
 
     http://10.129.18.91/admin.php
     
-    Username: admin
-    Password: admin
+Username: `admin`
+Password: `admin`
     
     Admin Console Login
     Congratulations! Your flag is: 6483bee07c1c1d57f14e5b0717503c73
