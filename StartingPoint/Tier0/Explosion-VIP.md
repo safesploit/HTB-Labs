@@ -66,7 +66,7 @@ What is the switch used to specify the target host's IP address when using xfree
 
 ***
 
-# Reproduction
+# Reproduce
 
     ┌──(kali㉿kali)-[~]
     └─$ xfreerdp /v:10.129.18.86:3389
