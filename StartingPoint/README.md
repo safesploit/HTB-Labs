@@ -1,1 +1,3 @@
-HTB Starting Point Labs available [here](https://github.com/safesploit/HTB-StartingPoint)
+HackTheBox CTFs with Reproducible Steps.
+
+Migrated from old repo [here](https://github.com/safesploit/HTB-StartingPoint)
