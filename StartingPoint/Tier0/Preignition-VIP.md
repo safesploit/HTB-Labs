@@ -1,3 +1,11 @@
+# Table of Contents
+
+- [Research](#research)
+- [Reproduce](#reproduce)
+- [Flag](#flag)
+
+# Research
+
 TASK 1
 
 What is considered to be one of the most essential skills to possess as a Penetration Tester?
@@ -87,6 +95,6 @@ What is the status code reported by gobuster upon finding a successful page?
     Admin Console Login
     Congratulations! Your flag is: 6483bee07c1c1d57f14e5b0717503c73
 
-# FLAG
+# Flag
 
 6483bee07c1c1d57f14e5b0717503c73
