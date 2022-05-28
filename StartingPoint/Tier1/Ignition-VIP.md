@@ -75,6 +75,9 @@ TASK 5
 
 What is the full URL to the Magento login page?
 
+GoBuster was used for bruteforcing the webpage, but the complete scan finished after obtaining the Flag. 
+This has been admended!
+
     ┌──(kali㉿kali)-[~]
     └─$ gobuster dir -w /usr/share/wordlists/dirb/common.txt -u http://ignition.htb      
     ===============================================================
@@ -93,6 +96,33 @@ What is the full URL to the Magento login page?
     ===============================================================
     /0                    (Status: 200) [Size: 25803]
     /admin                (Status: 200) [Size: 7095] 
+    ...
+    /catalog              (Status: 302) [Size: 0] [--> http://ignition.htb/]
+    /checkout             (Status: 302) [Size: 0] [--> http://ignition.htb/checkout/cart/]
+    /cms                  (Status: 200) [Size: 25817]                                     
+    /contact              (Status: 200) [Size: 28673]                                     
+    /enable-cookies       (Status: 200) [Size: 27176]                                     
+    /errors               (Status: 301) [Size: 185] [--> http://ignition.htb/errors/]     
+    /home                 (Status: 200) [Size: 25802]                                     
+    /Home                 (Status: 301) [Size: 0] [--> http://ignition.htb/home]          
+    /index.php            (Status: 200) [Size: 25815]                                     
+    /media                (Status: 301) [Size: 185] [--> http://ignition.htb/media/]      
+    /opt                  (Status: 301) [Size: 185] [--> http://ignition.htb/opt/]        
+    /rest                 (Status: 400) [Size: 52]                                        
+    /robots               (Status: 200) [Size: 1]                                         
+    /robots.txt           (Status: 200) [Size: 1]                                         
+    /setup                (Status: 301) [Size: 185] [--> http://ignition.htb/setup/]      
+    /soap                 (Status: 200) [Size: 391]                                       
+    /static               (Status: 301) [Size: 185] [--> http://ignition.htb/static/]     
+    Progress: 3986 / 4615 (86.37%)                                                       [ERROR] 2022/05/28 17:07:03 [!] Get "http://ignition.htb/tcl": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+    Progress: 3987 / 4615 (86.39%)                                                       [ERROR] 2022/05/28 17:07:03 [!] Get "http://ignition.htb/te": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+    [ERROR] 2022/05/28 17:07:03 [!] Get "http://ignition.htb/team": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+    Progress: 3989 / 4615 (86.44%)                                                       [ERROR] 2022/05/28 17:07:03 [!] Get "http://ignition.htb/tech": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+    /wishlist             (Status: 302) [Size: 0] [--> http://ignition.htb/customer/account/login/referer/aHR0cDovL2lnbml0aW9uLmh0Yi93aXNobGlzdA%2C%2C/]
+
+    ===============================================================
+    2022/05/28 17:08:55 Finished
+    ===============================================================
 
 
 http://ignition.htb/admin
