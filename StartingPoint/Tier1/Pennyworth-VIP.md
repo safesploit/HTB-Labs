@@ -112,6 +112,8 @@ Netcat listener
 
 Netcat listener on Kali `nc -lvnp 8000`
 
+Also, for the TUN0 interface IP Address: `ip a | grep tun0`
+
 Via Jenkins `http://10.129.23.128:8080/script` with username: `root` and password: `password`
 
     String host="IP_Addr_TUN0";
