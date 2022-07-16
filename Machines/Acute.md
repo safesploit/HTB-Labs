@@ -1,5 +1,7 @@
 # Acute Machine
 
+My inexperience with Powershell may make this difficult to follow along with!
+
 # Table of Contents
 
 - [Research](#research)
