@@ -183,7 +183,8 @@ Now we are part of the `site_admin` group we can get `root.txt` flag.
 
 <img width="882" alt="image" src="https://user-images.githubusercontent.com/10171446/179354238-3e94f597-21f4-4000-8530-58fe93018089.png">
 
-b30bb6ee56995e0d6f5d39d6f9f81d8a
+    b30bb6ee56995e0d6f5d39d6f9f81d8a
+
 
 
 # Reproduce
